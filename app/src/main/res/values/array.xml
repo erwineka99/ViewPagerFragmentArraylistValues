@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="devices">
+        <item>Window Phone</item>
+        <item>Androids</item>
+        <item>iPhone</item>
+    </string-array>
+
+    <string-array name="device_description">
+        <item>Windows Pone, lorem ipsum dolor amed lorep ipsum dolor amet</item>
+        <item>Android Phone, lorem ipsum dolor amed lorep ipsum dolor amed</item>
+        <item>iPhone, lorem ipsum dolor amed lorep ipsum dolor amed</item>
+    </string-array>
+
+
+</resources>
